@@ -59,7 +59,7 @@ def home(request):
 		# gi.country_code_by_name('google.com')
 		# gi.country_code_by_addr('64.233.161.99')
 		# gi.country_name_by_addr('64.233.161.99')
- 
+
 		# gi = pygeoip.GeoIP('GeoIPCity.dat')
 		# gi.record_by_addr('ip_address')
 
